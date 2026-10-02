@@ -1,5 +1,5 @@
 # code-decoder-for-Changan-UNI-T-IC
-Changan UNI-T Speedometer Diagnostic Code Decoder
+Changan UNI-T Speedometer Diagnostic Code Decoder for STM32F103 on Arduino.
 
 This project is a reverse-engineering and diagnostic tool developed for the Changan UNI-T instrument cluster.
 
